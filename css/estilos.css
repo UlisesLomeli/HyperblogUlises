@@ -54,3 +54,12 @@ body
     background: white;
     padding: 1cm;
 }
+
+#footer
+{
+    background: violet;
+    color: white;
+    text-align: center;
+    padding: 1cm;
+    
+}
