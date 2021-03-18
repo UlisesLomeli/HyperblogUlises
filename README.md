@@ -9,5 +9,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Hermano de en medio.
 * Me gusta la tecnología.
 * Mi comida favorita son los sopes.
+* Quisiera poder viajar a europa algun dia.
 
 Este es un ejemplo la edición del readme.md
